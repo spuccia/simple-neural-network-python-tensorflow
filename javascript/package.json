@@ -1,0 +1,15 @@
+{
+  "name": "neural-net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decision_support_algo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node decision_support_algo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.4.0"
+  }
+}
